@@ -83,6 +83,12 @@ A full-screen video background for a landing page using only HTML and CSS. The v
 
 > :email: [hello@pagapiou.com](mailto:hello@pagapiou.com)
 
+> :iphone: [LinkedIn](https://www.linkedin.com/in/agapiou/)
+
+> :iphone: [Instagram](https://www.instagram.com/panos_agapiou/)
+
+> :iphone: [Facebook](https://www.facebook.com/panagiotis.agapiou)
+
 
 ## Inspiration
 
