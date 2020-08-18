@@ -1,6 +1,6 @@
 # Simple Video Background
 
-> Video background using only html and css
+> Video background using only HTML and CSS
 
 A full-screen video background for a landing page using only HTML and CSS. The video section uses height:100vh to cover the entire screen and the HTML video markup uses the parameters "autoplay muted loop".
 
