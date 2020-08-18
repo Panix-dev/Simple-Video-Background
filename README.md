@@ -4,6 +4,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+
 ## Table of Contents
 
 > If your `README` has a lot of info, section headers might be nice.
@@ -13,17 +14,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - [Contact Details](#contact-details)
 - [Inspiration](#inspiration)
 
+
 ## Video Parameters
 
 ```html
-// code away!
-
 <div class="video-container">
 
 	<video src="video.mov" autoplay muted loop></video>
 
 </div>
 ```
+
 
 ## CSS Styles
 
@@ -64,18 +65,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	min-width: 100%;
 	min-height: 100%;
 	object-fit: cover;
-	position: absolute;;
+	position: absolute;
 	top: 50%;
 	left:50%;
 	transform: translate(-50%, -50%);
 }
 ```
 
+
 ## Contact Details
 
 > :computer: [https://pagapiou.com](https://pagapiou.com)
 
 > :email: [hello@pagapiou.com](hello@pagapiou.com)
+
 
 ## Inspiration
 
