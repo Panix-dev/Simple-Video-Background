@@ -81,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 > :computer: [https://pagapiou.com](https://pagapiou.com)
 
-> :email: [hello@pagapiou.com](hello@pagapiou.com)
+> :email: [hello@pagapiou.com](mailto:hello@pagapiou.com)
 
 
 ## Inspiration
